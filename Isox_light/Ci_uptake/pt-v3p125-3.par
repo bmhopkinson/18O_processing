@@ -1,0 +1,26 @@
+cycles	279
+DIC	1830
+evol	1
+pHe	8.03
+temp	22.0
+cells/mL	7.47E6
+cell_vol	6.6E-11
+cell_SA	1.06E-6
+chl_vol	0.65E-11
+chl_SA	2.99E-7
+enrich_factor	1.17
+background_begin	4
+background_end	20
+uncat_begin	45
+uncat_end	92
+dark_begin	93
+dark_end	169
+light_begin	170
+light_end	250
+kuf	7.66E-2
+kcf	5.292281e+02
+fc	3.353656e-08
+fb	1.702844e-12
+HCO3_ext	1.501374e-07	 1.935154e-07	 5.786411e-07	 8.962240e-07
+CO2_in	 6.240120e-09	 3.449459e-09	 1.792472e-09
+HCO3_in	 9.818145e-07	 5.436512e-07	 2.861843e-07	 6.867937e-09

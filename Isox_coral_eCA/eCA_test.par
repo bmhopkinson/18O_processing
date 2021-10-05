@@ -1,0 +1,17 @@
+DIC	250
+evol	40
+pHe	8.00
+temp	26.0
+SA	12.86
+tissue_thickness	0.05
+DBL	0.02
+background_begin	28
+background_end	48
+uncat_begin	99
+uncat_end	200
+eCA_begin	203
+eCA_end	349
+iCA_begin	352
+iCA_end	495
+kuf	7.8E-2
+
