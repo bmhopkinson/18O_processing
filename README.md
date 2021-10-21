@@ -8,3 +8,9 @@ The observed temporal dynamics of <sup>18</sup>O removal are then fit using a sy
 
 The figure below shows an example from work on phytoplankton. The diagram on the left shows the inorganic carbon form and fluxes under consideration in the model. 
 The plot on the right shows observed <sup>18</sup>O removal dynamics (open circles) and the model fit (solid lines) from a marine diatom. 
+![18O_Example](doc/18O_model_fit_example.jpg)
+
+The associated system of differential equation is:
+![18O_DEs](doc/18O_model_DEs.jpg)
+
+see Hopkinson et al. 2011 PNAS 108: 3830-3837 for details.
